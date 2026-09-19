@@ -389,7 +389,7 @@ a img.aligncenter {
     -ms-justify-content:center;
     height:50%;
     width:50%;
-    background-color:#bac63e;
+    background-color:#00205B;
     -webkit-animation-name:cupcakeAnimate;
     -webkit-animation-duration:500ms;
     -webkit-animation-direction:alternate;
@@ -2127,7 +2127,7 @@ select.mobile-device {
 }
 
 .footer .widget-title h3 {
-    color: #bac63e;
+    color: #00205B;
     font-weight: 500;
     font-size: 21px;
     padding: 0;
@@ -2145,11 +2145,11 @@ select.mobile-device {
 }
 
 body.seo_version .footer-links a:hover{
-	color: #bac63e;
+	color: #00205B;
 }
 .footer-links a:hover,
 .footer a:hover {
-    color: #bac63e;
+    color: #00205B;
 }
 
 .footer-links li {
@@ -2273,7 +2273,7 @@ body.seo_version .footer-links a:hover{
 }
 
 .footer-distributed .footer-company-name a:hover{
-	color: #bac63e;
+	color: #00205B;
 }
 
 
@@ -2323,19 +2323,19 @@ body.seo_version .footer-links a:hover{
 }
 
 .social-md li a.fb:hover{
-	background: #bac63e;
+	background: #00205B;
 }
 .social-md li a.gi:hover{
-	background: #bac63e;
+	background: #00205B;
 }
 .social-md li a.tw:hover{
-	background: #bac63e;
+	background: #00205B;
 }
 .social-md li a.dr:hover{
-	background: #bac63e;
+	background: #00205B;
 }
 .social-md li a.pi:hover{
-	background: #bac63e;
+	background: #00205B;
 }
 
 
