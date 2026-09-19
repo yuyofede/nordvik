@@ -442,7 +442,7 @@ a img.aligncenter {
 }
 
 .megamenu .dropdown-menu {
-    left: auto;
+    left: 0;
 }
 
 .megamenu .megamenu-content {
