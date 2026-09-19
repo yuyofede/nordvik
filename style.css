@@ -512,12 +512,12 @@ a img.aligncenter {
 
 .header_style_01 .navbar-default .navbar-nav > li:hover a,
 .header_style_01 .navbar-default .navbar-nav > li:focus a {
-    background-color: #bac63e;
+    background-color: #00205B;
 	color: #ffffff;
 }
 
 .header_style_01 .navbar-default .navbar-nav > li a.active{
-	background-color: #bac63e;
+	background-color: #00205B;
 	color: #ffffff;
 }
 
@@ -571,8 +571,8 @@ li.social-links a {
 	border-radius: 50px;
 	letter-spacing: 1px;
 	margin-top: 16px;
-	background-color: #bac63e;
-	border: 2px solid #bac63e;
+	background-color: #00205B;
+	border: 2px solid #00205B;
 	transition: all 0.3s ease;
 	-moz-transition: all 0.3s ease;
 	-webkit-transition: all 0.3s ease;
@@ -581,8 +581,8 @@ li.social-links a {
 }
 
 .header_style_01 .navbar-default .navbar-nav > li a.btn-light.top-btn:hover{
-	color: #bac63e;
-	border-color: #bac63e;
+	color: #00205B;
+	border-color: #00205B;
 	background: none;
 }
 
@@ -788,7 +788,7 @@ body.seo_version .btn-light.ban-btn{
 }
 
 .progress-bar-success{
-	background: #bac63e;
+	background: #00205B;
 	box-shadow: none;
 }
 
