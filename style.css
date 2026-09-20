@@ -643,6 +643,7 @@ li.social-links a {
 .parallax {
     background-attachment: fixed;
     background-size: cover;
+    background-repeat: no-repeat;
     height: 100%;
     padding: 120px 0;
     position: relative;
